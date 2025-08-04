@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I’m Bruno
+
+- 💻 Frontend + AI / Design Systems / AIUX Engineering  
+- 🔭 Building
+   - [VibeViz](https://vibeviz.ai)
+   - [Concepting.ai](https://concepting.ai)  
+- 🧠 Curious about agentic UIs, code generation, image generation, infinite canvases, and AI-native workflows  
+- 🌍 Portugal | Remote-first
+- 📫 Reach me: [brunnolou.com](brunnolou.com) | [Linkedin](https://www.linkedin.com/in/brunnolou/) | [X](http://x.com/brunnolou)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnolou)](https://github.com/brunnolou/brunnolou)
