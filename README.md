@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **brunnolou/brunnolou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I’m Bruno
+<img src="/assets/bruno-lourenco-info-banner.png" width="100%" />
 
-- 💻 Frontend + AI / Design Systems / AIUX Engineering  
+
+- 💻 Frontend / AI / Design Systems / AI UX Engineering  
 - 🔭 Building
    - [VibeViz](https://vibeviz.ai)
    - [Concepting.ai](https://concepting.ai)  
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 📫 Reach me: [brunnolou.com](brunnolou.com) | [Linkedin](https://www.linkedin.com/in/brunnolou/) | [X](http://x.com/brunnolou)
 
 <br /><br /><br />
+
+**Bruno Lourenço**
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnolou)](https://github.com/brunnolou/brunnolou) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunnolou&layout=compact)
