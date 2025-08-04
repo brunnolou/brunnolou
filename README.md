@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 - 🌍 Portugal | Remote-first
 - 📫 Reach me: [brunnolou.com](brunnolou.com) | [Linkedin](https://www.linkedin.com/in/brunnolou/) | [X](http://x.com/brunnolou)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnolou)](https://github.com/brunnolou/brunnolou)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnolou)](https://github.com/brunnolou/brunnolou) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunnolou&layout=compact)
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?logo=nextjs&logoColor=white&style=flat)
